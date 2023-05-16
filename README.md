@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunjanbinx
 - 👀 I’m interested in helping tech teams grow
-- 🌱 I’m currently learning to find the right cloud people
+- 🌱 I’m currently learning to find the right cloud people (AWS/GCP)
 - 💞️ I’m looking to collaborate on recruitment projects
 - 📫 Reach me at gunjan.kanwal@xebia.com
 
